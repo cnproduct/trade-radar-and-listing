@@ -1,0 +1,11 @@
+# Ignore local customer ledgers and generated commercial documents
+quote_history.csv
+followup_ledger.csv
+fx_history.csv
+customer_interest_log.csv
+product_catalog.csv
+*.xlsx
+extracted_frames/
+__pycache__/
+*.pyc
+.DS_Store
